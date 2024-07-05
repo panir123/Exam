@@ -34,20 +34,20 @@ ul{
 }
 
 .d1-img{
-    background: url(../Exam/IMG/team-image1.jpg) center center/cover no-repeat;
+    background: url(team-image1.jpg) center center/cover no-repeat;
     height:400px;
     width:300px;
     margin-right:30px;
 }
 .d2-img{
-    background: url(../Exam/IMG/team-image2.jpg) center center/cover no-repeat;
+    background: url(team-image2.jpg) center center/cover no-repeat;
     height:400px;
     width:300px;
     margin-right:30px;
 }
 
 .d3-img{
-    background: url(../Exam/IMG/team-image3.jpg) center center/cover no-repeat;
+    background: url(team-image3.jpg) center center/cover no-repeat;
     height:400px;
     width:300px;  
     margin-right:30px;  
